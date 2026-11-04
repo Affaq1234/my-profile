@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import Projects from "./components/Projects";
 import About from "./pages/About";
 import Footer from "./components/Footer";
+import ProjectsPage from "./pages/Projects";
 
 import "./App.css";
 
@@ -27,6 +28,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path="/projects" element={<ProjectsPage />} />
       </Routes>
 
       <Footer />
