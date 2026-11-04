@@ -20,7 +20,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Affaq Ahmed. All rights reserved.</p>
         <a href="#home">Back to top ↑</a>
       </div>
     </footer>

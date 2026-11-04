@@ -13,7 +13,7 @@ function Hero() {
         <p className="hero-greeting">HELLO, I'M</p>
 
         <h1>
-          Your Name<span>.</span>
+          Affaq Ahmad<span>.</span>
         </h1>
 
         <h2>
@@ -37,10 +37,10 @@ function Hero() {
         </div>
 
         <div className="hero-socials">
-          <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <a href="https://github.com/Affaq1234" target="_blank" rel="noreferrer">
             GitHub ↗
           </a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/affaq-ahmad-76a6b7266/" target="_blank" rel="noreferrer">
             LinkedIn ↗
           </a>
         </div>
